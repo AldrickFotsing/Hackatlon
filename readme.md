@@ -48,5 +48,6 @@ Lancer l'application :
 Bash
 streamlit run app.py
 
+Lien pour tester l'app: https://hackatlon.streamlit.app/
 
 Projet réalisé dans le cadre du Hackathon  - Yaoundé 2026.
